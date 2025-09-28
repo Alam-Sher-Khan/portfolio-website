@@ -27,6 +27,3 @@ It’s a beginner-friendly but real-world DevOps + Cloud project.
 - **Cloud Provider**: AWS  
 - **Hosting**: Amazon S3 (Static Website Hosting)  
 
----
-
-## 📂 Repository Structure
